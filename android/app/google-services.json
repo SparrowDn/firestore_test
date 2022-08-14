@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134742798384",
+    "project_id": "testkidon2",
+    "storage_bucket": "testkidon2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134742798384:android:ea3e911995482e8694fdf5",
+        "android_client_info": {
+          "package_name": "com.example.firestore_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134742798384-q3njcmjtbv88c3rokt3lrc98fk9ivehv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firestore_test",
+            "certificate_hash": "e8da02c6dd21e9d18556088ec92ee72e067fba83"
+          }
+        },
+        {
+          "client_id": "134742798384-4c2in5vgaa06s61ft5rjlq9ili048a3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHlw5s4r0GIIS5UXNOrLPdw6Zm9GNpng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134742798384-4c2in5vgaa06s61ft5rjlq9ili048a3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
